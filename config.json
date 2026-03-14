@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Indo-8",
+    "browserPath": "/krock",
+    "targetHost": "indo6.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjantit"
+  }
+]

@@ -1,9 +1,1 @@
-[
-  {
-    "name": "indo3-5h",
-    "browserPath": "/indo3",
-    "targetHost": "indo3.vpnjantit.com",
-    "targetPort": "10004",
-    "targetPath": "/vpnjantit"
-  }
-]
+[]

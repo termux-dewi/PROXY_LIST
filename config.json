@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "alibaba sg 5H",
+    "browserPath": "/venemo",
+    "targetHost": "sg11.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjantit"
+  }
+]

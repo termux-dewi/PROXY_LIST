@@ -5,5 +5,12 @@
     "targetHost": "indo6.vpnjantit.com",
     "targetPort": "10004",
     "targetPath": "/vpnjantit"
+  },
+  {
+    "name": "indo6-6h",
+    "browserPath": "/indo6",
+    "targetHost": "indo6.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjantit"
   }
 ]

@@ -5,5 +5,12 @@
     "targetHost": "sg11.vpnjantit.com",
     "targetPort": "10004",
     "targetPath": "/vpnjantit"
+  },
+  {
+    "name": "indo biz",
+    "browserPath": "/biz",
+    "targetHost": "indo7.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjantit"
   }
 ]

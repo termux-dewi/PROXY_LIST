@@ -19,5 +19,12 @@
     "targetHost": "indo8.vpnjantit.com",
     "targetPort": "10004",
     "targetPath": "/vpnjantit"
+  },
+  {
+    "name": "indo2 premium 20h",
+    "browserPath": "/alibaba",
+    "targetHost": "indo2.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjantit"
   }
 ]

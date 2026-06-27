@@ -26,5 +26,12 @@
     "targetHost": "indo2.vpnjantit.com",
     "targetPort": "10004",
     "targetPath": "/vpnjantit"
+  },
+  {
+    "name": "indobebas",
+    "browserPath": "/vless",
+    "targetHost": "indo6.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjatit"
   }
 ]

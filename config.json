@@ -1,12 +1,5 @@
 [
   {
-    "name": "indo biz",
-    "browserPath": "/biz",
-    "targetHost": "indo7.vpnjantit.com",
-    "targetPort": "10004",
-    "targetPath": "/vpnjantit"
-  },
-  {
     "name": "biz4h",
     "browserPath": "/vless",
     "targetHost": "indo8.vpnjantit.com",

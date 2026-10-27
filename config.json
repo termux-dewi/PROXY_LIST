@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "zetsu",
+    "browserPath": "/vless",
+    "targetHost": "indo2.vpnjantit.com",
+    "targetPort": "10004",
+    "targetPath": "/vpnjantit"
+  }
+]
